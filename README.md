@@ -8,7 +8,11 @@ intuitive web platform that enables the elderly to easily handle medication sche
 emergency contacts, and communicate with caregivers. It also includes remote monitoring 
 features, allowing authorized individuals to oversee the well-being of the elderly from a 
 distance.
-
+***
+## Technological stack used
+1. HTML
+2. CSS
+3. JavaScript
 ***
 *"home.html" - home page of the website*
 ***
